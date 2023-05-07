@@ -1,2 +1,2 @@
-# npm inastall 
-## npm run dev ishga Tushirish 
+# npm install 
+###npm run dev ##ishga Tushirish 
